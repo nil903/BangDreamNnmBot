@@ -1,0 +1,21 @@
+{
+    "host": "127.0.0.1",
+    "port": 8000,
+    "botId": 83337974,
+    "credential": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJib3RfaWQiOiI4MzMzNzk3NCIsImNyZWRlbnRpYWwiOiIzZmQ2MzhjMi05M2MzLTRlODMtYjUwOS04NDNiMjc4YjkwNTUifQ.nzWuLB8WcaSrjDvtozT4EMU2W8cs6qn0soOKHD59wZg",
+    "enableHelp": true,
+    "helpContent": null,
+    "controlApiAccessToken": null,
+    "enableModules": [
+        "all"
+    ],
+    "runMode": "blacklist",
+    "blacklists": {
+        "all": []
+    },
+    "whitelists": {
+        "all": []
+    },
+    "additionalFuncWhitelists": [],
+    "botAdmins": []
+}

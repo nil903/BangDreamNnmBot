@@ -1,0 +1,199 @@
+[
+  {
+    "type": "fullMatch",
+    "message": ["来点wlp"],
+    "reply": ["nnm也很喜欢哟"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["msr", "小白", "真白"],
+    "reply": ["小真白真可爱~"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["查卡947"],
+    "reply": ["普通路过的邪神日菜酱~"]
+  },
+
+  {
+    "type": "prefix",
+    "message": ["抽卡模拟"],
+    "reply": ["nnm希望你有好运哦"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["nnm"],
+    "reply": ["找七深有什么事吗"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["买茨菇"],
+    "reply": ["记得要把买茨菇的赠品送给七深哟"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["nnm辛苦了"],
+    "reply": ["这种程度的练习算辛苦吗..\n可是之前ruirui告诉我每天练习十几个小时是非常普通的。\n普通的定义到底是什么呢?"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["买nnm"],
+    "reply": ["不可以买七深哦"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["买摩卡"],
+    "reply": ["买摩卡会赠送114514个赠品哦"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["toko", "透子"],
+    "reply": ["和透子还有morfonica演奏的日子每天都很开心!"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["害怕"],
+    "reply": ["已经没什么好怕的了", "もう何も怖くない", "emoji/q1.png", "emoji/q2.png", "emoji/q3.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["好耶"],
+    "reply": ["emoji/q4.png", "emoji/q5.png", "emoji/q6.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["早上好", "早"],
+    "reply": ["早上好！今天也要过普通的一天哟！"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["晚安"],
+    "reply": ["晚安！做个好梦!"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["薰", "濑田薰"],
+    "reply": ["emoji/q52.jpg"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["八潮瑠唯", "瑠唯", "ruirui", "rui"],
+    "reply": ["唯唯昨天跟我说一天练习十小时以上是非常正常的一件事哦。 既然对于大家非常普通的事，那七深也要开始加油练习！"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["千圣", "cst"],
+    "reply": ["千圣同学这里遇到你真是命运的安排，多么梦幻啊！怎么了千圣前辈，这是薰前辈教我的普通说话方式，难道有什么问题吗?"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["help", "使用说明", "菜单"],
+    "reply": ["emoji/help.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["nnm可爱"],
+    "reply": ["emoji/q7.png","emoji/q8.png","emoji/q9.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["nnm抱抱"],
+    "reply": ["emoji/q55.png","emoji/q56.png","emoji/q57.png","emoji/q58.png,","emoji/q59.png","emoji/q60.png","emoji/q61.png","emoji/q62.png","emoji/q63.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["nnm抱抱"],
+    "reply": ["emoji/q14.png","emoji/q15.png","emoji/q16.png","emoji/q18.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["润", "润了", "我先润了"],
+    "reply": ["emoji/q19.png","emoji/q20.png","emoji/q21.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["谢谢", "谢谢你"],
+    "reply": ["emoji/q22.png","emoji/q23.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["茨菇寄了"],
+    "reply": ["emoji/q24.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["摩卡寄了"],
+    "reply": ["emoji/q25.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["茨菇老婆"],
+    "reply": ["emoji/q26.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["摩卡老婆"],
+    "reply": ["emoji/q27.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["nnm贴贴"],
+    "reply": ["emoji/q28.png","emoji/q30.png","emoji/q31.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["nnm亲亲"],
+    "reply": ["emoji/q32.png","emoji/q33.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["nnm爬"],
+    "reply": ["emoji/q34.png","emoji/q35.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["ycm", "有车没", "有车吗"],
+    "reply": ["emoji/q36.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["女同好"],
+    "reply": ["emoji/q41.png"]
+  },
+
+  {
+    "type": "fullMatch",
+    "message": ["来点nil", "买nil"],
+    "reply": ["/remake"]
+  }
+]

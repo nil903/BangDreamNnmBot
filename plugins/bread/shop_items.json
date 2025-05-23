@@ -1,0 +1,137 @@
+[
+  {
+    "name": "最棒的演出",
+    "description": "增加下一次抢夺成功概率10%",
+    "type": "buff",
+    "price": 10,
+    "duration": 1,
+    "rarity": "common",
+    "path": "stamp/10002.png"
+  },
+  {
+    "name": "炸车噜",
+    "description": "下一次失败的抢夺不扣甜点",
+    "type": "buff",
+    "price": 10,
+    "duration": 1,
+    "rarity": "common",
+    "path": "stamp/10486.png"
+  },
+  {
+    "name": "是我的问题",
+    "description": "下一次对方抢你失败时，反弹伤害使对方损失多1倍甜点",
+    "type": "buff",
+    "price": 20,
+    "duration": 1,
+    "rarity": "common",
+    "path": "stamp/10479.png"
+  },
+  {
+    "name": "开饭啦",
+    "description": "每小时自动生成5个甜点，持续12小时",
+    "type": "buff",
+    "price": 10,
+    "duration": null,
+    "rarity": "common",
+    "path": "stamp/10094.png"
+  },
+  {
+    "name": "汉堡肉",
+    "description": "下一次买甜点时额外多获得50%",
+    "type": "buff",
+    "price": 20,
+    "duration": 1,
+    "rarity": "common",
+    "path": "stamp/10021.png"
+  },
+  {
+    "name": "我来支援你",
+    "description": "打开获得2个随机道具",
+    "type": "active",
+    "price": 10,
+    "duration": 1,
+    "rarity": "rare",
+    "path": "stamp/10374.png"
+  },
+  {
+    "name": "我可不能输呀",
+    "description": "下次抢成功则获得双倍，失败扣两倍",
+    "type": "buff",
+    "price": 10,
+    "duration": 1,
+    "rarity": "common",
+    "path": "stamp/10186.png"
+  },
+  {
+    "name": "一起开心吧",
+    "description": "与一位绑定，24小时内同损同得",
+    "type": "special",
+    "price": 10,
+    "duration": 24,
+    "rarity": "epic",
+    "path": "stamp/10130.png"
+  },
+  {
+    "name": "紧急情况",
+    "description": "下一次被抢失败时立即反击一次，概率60%成功",
+    "type": "buff",
+    "price": 10,
+    "duration": 1,
+    "rarity": "common",
+    "path": "stamp/10106.png"
+  },
+  {
+    "name": "紧急情况",
+    "description": "使用后获得50~100随机甜点",
+    "type": "active",
+    "price": 10,
+    "duration": 1,
+    "rarity": "epic",
+    "path": "stamp/10171.png"
+  },
+  {
+    "name": "我也是一样的心情",
+    "description": "下一次赠送别人甜点时获得双倍返还",
+    "type": "buff",
+    "price": 10,
+    "duration": 1,
+    "rarity": "rare",
+    "path": "stamp/10293.png"
+  },
+  {
+    "name": "还好吗",
+    "description": "下一次成功抢别人后甜点翻倍",
+    "type": "buff",
+    "price": 10,
+    "duration": 1,
+    "rarity": "rare",
+    "path": "stamp/10299.png"
+  },
+  {
+    "name": "谢啦",
+    "description": "12小时内有50%概率拾取群友失败抢夺掉落的甜点的50%",
+    "type": "special",
+    "price": 10,
+    "duration": 12,
+    "rarity": "epic",
+    "path": "stamp/10290.png"
+  },
+  {
+    "name": "噜起来了",
+    "description": "连续抢夺成功3次时获得一次50甜点奖励(限1次)",
+    "type": "epic",
+    "price": 10,
+    "duration": 1,
+    "rarity": "epic",
+    "path": "stamp/10206.png"
+  },
+  {
+    "name": "路上小心",
+    "description": "连续抢夺失败3次时获得一次50甜点奖励(限1次)",
+    "type": "buff",
+    "price": 10,
+    "duration": 1,
+    "rarity": "epic",
+    "path": "stamp/10031.png"
+  }
+]
